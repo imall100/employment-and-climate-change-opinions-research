@@ -3,7 +3,7 @@
 
 #setup
 rm(list=ls())
-setwd("C:\\Users\\ianma\\Documents\\UCSD\\poli 5\\research project")
+setwd("<file path>")
 
 library(reshape)
 library(reshape2)
