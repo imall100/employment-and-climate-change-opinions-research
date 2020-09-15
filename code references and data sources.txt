@@ -1,0 +1,9 @@
+﻿References
+https://economictheoryblog.com/2018/05/18/robust-standard-errors-in-stargazer/
+https://stackoverflow.com/questions/59150905/is-there-a-ggplot2-analogue-to-the-avplots-function-in-r
+Data Sources
+https://climatecommunication.yale.edu/visualizations-data/ycom-us/
+https://apps.bea.gov/regional/downloadzip.cfm
+https://data.ers.usda.gov/reports.aspx?ID=17829
+https://github.com/tonmcg/US_County_Level_Election_Results_08-16
+https://apps.bea.gov/itable/iTable.cfm?ReqID=70&step=1
